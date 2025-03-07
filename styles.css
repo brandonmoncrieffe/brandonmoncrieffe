@@ -44,7 +44,7 @@ header nav ul li a {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url('assets/images/banner.jpg') no-repeat center center/cover;
+    background: url('assetss/images/banner.jpg') no-repeat center center/cover;
     position: relative;
 }
 
