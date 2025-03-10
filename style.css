@@ -1,1 +1,30 @@
+/* Import Medieval Font */
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2e1c05; /* Dark Background */
+    color: #e8ddcf; /* White Text */
+}
+
+/* HEADER */
+header {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+/* NAME */
+h1 {
+    font-family: 'UnifrakturMaguntia', serif; /* Medieval Style Font */
+    font-size: 5rem; /* Large Text */
+    line-height: 0.9; /* Reduce Space Between Lines */
+}
+
+
 
