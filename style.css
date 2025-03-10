@@ -8,12 +8,13 @@
 }
 
 body {
-    background-color: #2e1c05; /* Dark Background */
-    color: #e8ddcf; /* White Text */
+ 
 }
 
 /* HEADER */
 header {
+    background-color: #2e1c05; /* Dark Background */
+    color: #e8ddcf; /* White Text */
     position: absolute;
     top: 20px;
     left: 20px;
